@@ -1,8 +1,9 @@
 ### Hi there 👋
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?)v=YOUTUBE_VIDEO_ID_HERE)
-[![Twitter](./images/twitter.png)]('https://twitter.com/wafi_Mameri')
-[![LinkedIn](./images/linkedin.gif)]('https://twitter.com/wafi_Mameri')
-[![Gmail](./images/gmail.gif)]('https://twitter.com/wafi_Mameri')
+## Contact me
+
+1.[![Twitter](./images/twitter.png)]('https://twitter.com/wafi_Mameri')
+2.[![LinkedIn](./images/linkedin.png)]('https://twitter.com/wafi_Mameri')
+3.[![Gmail](./images/gmail.png)]('https://twitter.com/wafi_Mameri')
 
 **wafistos1/wafistos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
