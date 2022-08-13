@@ -1,17 +1,15 @@
 ### Hi there 👋
 ##### Contact me
 
-1.[![Twitter](./images/twitter.png)]('https://twitter.com/wafi_Mameri')
-2.[![LinkedIn](./images/linkedin.png)]('https://twitter.com/wafi_Mameri')
-3.[![Gmail](./images/gmail.png)]('https://twitter.com/wafi_Mameri')
 
-![LinkedIn][lk]
+
+[![LinkedIn][lk]]('https://www.linkedin.com/in/ouafi-mameri-4719488b/')
 ![Gmail][gl]
-![Twitter][tw]
+[![Twitter][tw]]('https://twitter.com/wafi_Mameri/')
 
 
 [lk]: ./images/linkedin.png "Wafi LinkedIn"
-[gl]: ./images/gmail.png "Wafi Gmail"
+[gl]: ./images/gmail.png "mameri.wafi@gmail.com"
 [tw]: ./images/twitter.png "Wafi Twitter"
 
 
