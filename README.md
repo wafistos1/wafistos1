@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![img_contact](./img/globe-light.svg)
+[![Twitter](./images/twitter.png)]('https://twitter.com/wafi_Mameri')
+[![LinkedIn](./images/linkedin.gif)]('https://twitter.com/wafi_Mameri')
+[![Gmail](./images/gmail.gif)]('https://twitter.com/wafi_Mameri')
 
 **wafistos1/wafistos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
