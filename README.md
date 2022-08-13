@@ -6,7 +6,7 @@
 [![LinkedIn][lk]]('https://www.linkedin.com/in/ouafi-mameri-4719488b/')
 ![Gmail][gl]
 
- [![My Twitter](./images/linkedin.png)]('https://twitter.com/wafi_Mameri/')
+ [![My Twitter](./images/linkedin.png)]('http://twitter.com/wafi_Mameri/')
 
 [lk]: ./images/linkedin.png "Wafi LinkedIn"
 [gl]: ./images/gmail.png "mameri.wafi@gmail.com"
