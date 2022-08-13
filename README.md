@@ -7,7 +7,7 @@
 
 ![Twitter][tw]
 
-[tw]: ./images/linkedin.png "Logo Title Text 2"
+[tw]: ./images/linkedin.png "Wafi LinkedIn"
 
 
 **wafistos1/wafistos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
