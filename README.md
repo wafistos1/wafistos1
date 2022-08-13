@@ -7,12 +7,12 @@
 
 ![LinkedIn][lk]
 ![Gmail][gl]
-![Twitter][tw]
+[![Twitter][tw]('https://twitter.com/wafi_Mameri')]
 
 
 [lk]: ./images/linkedin.png "Wafi LinkedIn"
 [gl]: ./images/gmail.png "Wafi Gmail"
-[tw]: ./images/twitter.pngg "Wafi Twitter"
+[tw]: ./images/twitter.png "Wafi Twitter"
 
 
 **wafistos1/wafistos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
