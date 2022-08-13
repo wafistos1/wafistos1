@@ -3,13 +3,14 @@
 
 
 
- [![Linked][lk]](https://www.linkedin.com/in/ouafi-mameri-4719488b/)
- [![Twitter][tw]](https://twitter.com/wafi_Mameri)
+[![Linked][lk]](https://www.linkedin.com/in/ouafi-mameri-4719488b/)
+[![Twitter][tw]](https://twitter.com/wafi_Mameri)
+[![Gmail][gm]](mailto:mameri.wafi@gmail.com)
 
 
-[lk]: ./images/linkedin.png "Wafi LinkedIn"
-
-[tw]: ./images/twitter.png "Wafi Twitter"
+[lk]: ./images/linkedin.png "My LinkedIn"
+[tw]: ./images/twitter.png "My Twitter"
+[gm]: ./images/gmail.png "My Gmail"
 
 
 **wafistos1/wafistos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
