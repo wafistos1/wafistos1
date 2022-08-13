@@ -5,7 +5,7 @@
 
  [![Twitter](./images/gmail.png)]('http://twitter.com/wafi_Mameri')
 
-[![](./images/gmail.png)](http://i.stack.imgur.com/vwxyz.png)
+[![](./images/gmail.png)](http://i.stack.imgur.com/)
 
 [lk]: ./images/linkedin.png "Wafi LinkedIn"
 [gl]: ./images/gmail.png "Wafi Gmail"
