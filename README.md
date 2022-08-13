@@ -3,14 +3,9 @@
 
 
 
-[![LinkedIn][lk]]('https://www.linkedin.com/in/ouafi-mameri-4719488b/')
-![Gmail][gl]
+ [![LinkedIn](./images/linkedin.png)]('https://www.linkedin.com/in/ouafi-mameri-4719488b/')
 
- [![My Twitter](./images/linkedin.png)]('http://twitter.com/wafi_Mameri/')
 
-[lk]: ./images/linkedin.png "Wafi LinkedIn"
-[gl]: ./images/gmail.png "mameri.wafi@gmail.com"
-[tw]: ./images/twitter.png "Wafi Twitter"
 
 
 **wafistos1/wafistos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
