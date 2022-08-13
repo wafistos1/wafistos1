@@ -7,7 +7,7 @@
 
 ![LinkedIn][lk]
 ![Gmail][gl]
-![![Twitter][tw]]('https://twitter.com/wafi_Mameri')
+![![][tw]]('https://twitter.com/wafi_Mameri')
 
 
 [lk]: ./images/linkedin.png "Wafi LinkedIn"
