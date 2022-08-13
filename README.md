@@ -2,13 +2,10 @@
 ##### Contact me
 
 1.[![](./images/twitter.png)]('https://twitter.com/wafi_Mameri')
-2.[![](./images/linkedin.png)]('https://twitter.com/wafi_Mameri')
-3.[![](./images/gmail.png)]('https://twitter.com/wafi_Mameri')
 
-![LinkedIn][lk]
-![Gmail][gl]
-![![][tw]]('https://twitter.com/wafi_Mameri')
+ [![Twitter](./images/gmail.png)]('https://twitter.com/wafi_Mameri')
 
+[![](./images/gmail.png)](http://i.stack.imgur.com/vwxyz.png)
 
 [lk]: ./images/linkedin.png "Wafi LinkedIn"
 [gl]: ./images/gmail.png "Wafi Gmail"
