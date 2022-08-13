@@ -1,13 +1,13 @@
 # **Wafi MAMERI** 
-## *Web Developer*
+## *Web Developer(Backend Python)*
 ### Hi there 👋
 ##### Contact me
 
 
 
-[![Linked][lk]](https://www.linkedin.com/in/ouafi-mameri-4719488b/)\
-[![Twitter][tw]](https://twitter.com/wafi_Mameri)\
-[![Gmail][gm]](mailto:mameri.wafi@gmail.com)\
+[![Linked][lk]](https://www.linkedin.com/in/ouafi-mameri-4719488b/)
+[![Twitter][tw]](https://twitter.com/wafi_Mameri)
+[![Gmail][gm]](mailto:mameri.wafi@gmail.com)
 
 
 [lk]: ./images/linkedin.png "My LinkedIn"
@@ -20,7 +20,4 @@
 - 🌱 I’m currently learning Odoo 
 - 👯 I’m looking to collaborate on Baytonia.com
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
