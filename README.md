@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!{img_contact(./img/globe-light.svg)
+!{img_contact}(./img/globe-light.svg)
 
 **wafistos1/wafistos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
