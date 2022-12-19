@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Telegram Bot
 - 🌱 I’m currently learning Odoo 
-- 👯 I'm currently at www.baytonia.com as Web Developer
+- 👯 I'm currently at [www.menia.com](https://en.minea.com/) as Python Developer
 
 
 You find here several projects, mainly in Python (Django) and some scraping projects.
